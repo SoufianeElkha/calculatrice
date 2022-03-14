@@ -4,5 +4,5 @@
 
 
 
-> make
-> ./calculatrice
+##`make`
+##`./calculatrice`
