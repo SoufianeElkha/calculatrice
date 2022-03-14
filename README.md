@@ -2,5 +2,7 @@
 
 ## Méthode d'exécution
 
---> make
---> ./calculatrice
+
+
+> make
+> ./calculatrice
